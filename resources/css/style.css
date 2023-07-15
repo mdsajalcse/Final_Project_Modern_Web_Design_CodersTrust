@@ -1,0 +1,21 @@
+
+#header{
+
+  width: 100%;
+  height: 100vh; 
+  background-image:url("/resources/img/header-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.navbar ul li a{
+   color:#fff !important;
+}
+.top-header-text .border-span{
+    padding: 20px;
+}
+.top-header-text span{
+    border: 2px solid #fff;
+    padding: 10px;
+}
